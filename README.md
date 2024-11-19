@@ -95,5 +95,12 @@ Si quieres saber más sobre mí o colaborar en algún proyecto, ¡no dudes en co
 
 ---
 
-
 Gracias por visitar mi perfil. ¡Nos vemos en el código! 💻
+
+
+<div >
+    <img src="https://github-readme-stats.vercel.app/api?username=develatter&show_icons=true&theme=dracula" width="66%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develatter&theme=dracula" width="29%"/>    
+</div>
+
+
