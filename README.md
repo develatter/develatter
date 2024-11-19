@@ -1,4 +1,4 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">Me llamo Álex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Me llamo Álex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
 
 ¡Hola! Soy **Álex**, estudiante de segundo curso de **Desarrollo de Aplicaciones Multiplataforma** y apasionado por el desarrollo de software, los videojuegos y la tecnología en general. Me encanta experimentar, aprender y salir de mi zona de confort para seguir mejorando como persona y como profesional. Suelo trabajar con sistemas de **tipo Unix** y programo principalmente en **Java**, aunque estoy aprendiendo **Kotlin y Python**. 
 
