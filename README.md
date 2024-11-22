@@ -79,7 +79,6 @@ También estoy interesando en aprender más sobre *Kotlin* y las posibilidades q
 
 - [Apuntes sobre Kotlin en español](https://github.com/develatter/apuntes-de-kotlin)
 - [Ejercicios de lógica resueltos en Kotlin](https://github.com/develatter/KotlinPractice)
-- [Mis dotfiles para Debian](https://github.com/develatter/debian_dotfiles)
 
 ---
 
@@ -100,7 +99,7 @@ Gracias por visitar mi perfil. ¡Nos vemos en el código! 💻
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=develatter&show_icons=true&theme=dracula" width="66%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develatter&theme=dracula" width="29%"/>    
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develatter&theme=dracula" width="29%"/>-->    
 </div>
 
 
