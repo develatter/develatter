@@ -49,7 +49,7 @@ Bajo el pseudónimo **"develatter"** publico de forma regular contenido relacion
     <a href="https://www.tiktok.com/@develatter">
         <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
-    <a href="https://www.linkedin.com/in/alejandro-lópez-martínez-17268313a/">
+    <a href="https://www.linkedin.com/in/develatter">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/@develatter">
