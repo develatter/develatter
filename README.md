@@ -52,7 +52,7 @@ Bajo el pseudónimo **"develatter"** publico de forma regular contenido relacion
     <a href="https://www.linkedin.com/in/alejandro-lópez-martínez-17268313a/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://www.youtube.com/@develatter_">
+    <a href="https://www.youtube.com/@develatter">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </div>
