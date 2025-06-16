@@ -1,6 +1,6 @@
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> Me llamo Álex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> My name is Álex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
 
-¡Hola! Soy **Álex**, estudiante de segundo curso de **Desarrollo de Aplicaciones Multiplataforma** y apasionado por el desarrollo de software, los videojuegos y la tecnología en general. Me encanta experimentar, aprender y salir de mi zona de confort para seguir mejorando como persona y como profesional. Suelo trabajar con sistemas de **tipo Unix** y programo principalmente en **Java**, aunque estoy aprendiendo **Kotlin y Python**. 
+Hi there! I'm **Álex**, a **backend developer** passionate about software development, video games, and technology in general. I love experimenting, learning, and stepping out of my comfort zone to keep growing both personally and professionally. I usually work with **Unix-based systems** and primarily code in **Java**, although I’m currently learning **Kotlin** and **Rust**.
 
 <div align="center">
     <img  src="https://i.giphy.com/UvPvsX9oMlMWs.webp" width="200dp" height="200dp"/> 
@@ -8,10 +8,11 @@
 
 ---
 
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
 <div align="center">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Rust-121011?style=for-the-badge&logo=rust&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kotlin-9933ff?&style=for-the-badge&logo=kotlin&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
@@ -30,11 +31,11 @@
 
 ---
 
-## 📱 Redes Sociales
+## 📱 Social Media
 
-Me gusta compartir a través de redes sociales mis aprendizajes y experiencias en el desarrollo. ¡Y mi particular sentido del humor! Soy una persona creativa e inquieta, con buenas habilidades personales y a la que le encanta ayudar a otros a crecer como desarrolladores. 
+I enjoy sharing my learnings and experiences in development through social media — along with my peculiar sense of humor! I'm a creative and curious person, with strong people skills and a passion for helping others grow as developers.
 
-Bajo el pseudónimo **"develatter"** publico de forma regular contenido relacionado con el desarrollo de software y cuestiones relacionadas. Puedes seguirme a través de los siguientes enlaces.
+Under the alias **"develatter"**, I regularly post content related to software development and related topics. You can follow me at the links below.
 
 <div align="center">
     <br/>
@@ -67,39 +68,38 @@ Bajo el pseudónimo **"develatter"** publico de forma regular contenido relacion
 
 ---
 
-## 🌱 Intereses
+## 🌱 Interests
 
-Actualmente estoy especialmente interesado en el desarrollo backend por lo que me estoy enfocando en mejorar mis habilidades con *Spring Boot y Java*. 
+I'm currently working to improve my skills in *Rust*.
 
-También estoy interesando en aprender más sobre *Kotlin* y las posibilidades que ofrece, tanto para el desarrollo de aplicaciones multiplataforma como para el desarrollo backend.
-
----
-
-## 👨‍💻 Repositorios de interés
-
-- [Apuntes sobre Kotlin en español](https://github.com/develatter/apuntes-de-kotlin)
-- [Ejercicios de lógica resueltos en Kotlin](https://github.com/develatter/KotlinPractice)
+I'm also exploring *Kotlin* and its capabilities, both for cross-platform app development and backend programming.
 
 ---
 
-## 📧 Contacto
+## 👨‍💻 Noteworthy Repositories
 
-Si quieres saber más sobre mí o colaborar en algún proyecto, ¡no dudes en contactarme!
+* [Spanish Kotlin Notes](https://github.com/develatter/apuntes-de-kotlin)
+* [Logic Exercises Solved in Kotlin](https://github.com/develatter/KotlinPractice)
+
+---
+
+## 📧 Contact
+
+Want to know more about me or collaborate on a project? Don’t hesitate to get in touch!
 
 <div align="start">
-    <a href="mailto:lattecast@gmail.com>">
-        <img src="https://img.shields.io/badge/¡Mándame%20un%20mail!-5577B5?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <a href="mailto:lattecast@gmail.com">
+        <img src="https://img.shields.io/badge/Email%20me!-5577B5?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
 
 ---
 
-Gracias por visitar mi perfil. ¡Nos vemos en el código! 💻
-
+Thanks for visiting my profile. See you in the code! 💻
 
 <div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=develatter&show_icons=true&theme=dracula" width="66%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=develatter&theme=dracula" width="29%"/>    
 </div>
 
-
+---
