@@ -78,8 +78,8 @@ I'm also exploring *Kotlin* and its capabilities, both for cross-platform app de
 
 ## 👨‍💻 Noteworthy Repositories
 
+* [Rusty Bot](https://github.com/develatter/rusty_bot)
 * [Spanish Kotlin Notes](https://github.com/develatter/apuntes-de-kotlin)
-* [Logic Exercises Solved in Kotlin](https://github.com/develatter/KotlinPractice)
 
 ---
 
