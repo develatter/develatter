@@ -27,6 +27,7 @@ Hi there! I'm **Álex**, a **backend developer** passionate about software devel
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/n8n-ED5084?style=for-the-badge&logo=n8n&logoColor=white"/>
 </div>
 
 ---
