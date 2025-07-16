@@ -81,6 +81,8 @@ I'm also exploring *Kotlin* and its capabilities, both for cross-platform app de
 
 * [Rusty Bot](https://github.com/develatter/rusty_bot)
 * [Spanish Kotlin Notes](https://github.com/develatter/apuntes-de-kotlin)
+* [Java Sockets Example](https://github.com/develatter/Java-Multiuser-Chat-Example)
+* [Java CLI API Client Example](https://github.com/develatter/Java-CLI-RickAndMorty-Client)
 
 ---
 
