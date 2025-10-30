@@ -1,6 +1,6 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> My name is Álex <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2615/512.gif" alt="☕" width="32" height="32">
 
-Hi there! I'm **Álex**, a **backend developer** passionate about software development, video games, and technology in general. I love experimenting, learning, and stepping out of my comfort zone to keep growing both personally and professionally. I usually work with **Unix-based systems** and primarily code in **Java**, although I’m currently learning **Kotlin** and **Rust**.
+Hi there! I'm **Álex**, a **backend developer** passionate about software development, video games, and technology in general. I love experimenting, learning, and stepping out of my comfort zone to keep growing both personally and professionally. I usually work with **Unix-based systems** and primarily code in **Java** and **Rust**, although I’m currently learning **Python**.
 
 <div align="center">
     <img  src="https://i.giphy.com/UvPvsX9oMlMWs.webp" width="200dp" height="200dp"/> 
@@ -71,9 +71,7 @@ Under the alias **"develatter"**, I regularly post content related to software d
 
 ## 🌱 Interests
 
-I'm currently working to improve my skills in *Rust*.
-
-I'm also exploring *Kotlin* and its capabilities, both for cross-platform app development and backend programming.
+I'm currently working to improve my skills in *Python, AI and Big Data*.
 
 ---
 
