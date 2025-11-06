@@ -91,7 +91,7 @@ I'm currently working to improve my skills in *Python, AI and Big Data*.
 Want to know more about me or collaborate on a project? Don’t hesitate to get in touch!
 
 <div align="start">
-    <a href="mailto:lattecast@gmail.com">
+    <a href="mailto:contacto@develatter.com">
         <img src="https://img.shields.io/badge/Email%20me!-5577B5?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </div>
