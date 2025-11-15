@@ -73,17 +73,16 @@ Under the alias **"develatter"**, I regularly post content related to software d
 
 ## 🌱 Interests
 
-I'm currently working to improve my skills in *Python, AI and Big Data*.
+I'm currently working to improve my skills in *Rust, Python, AI and Big Data*.
 
 ---
 
 ## 👨‍💻 Noteworthy Repositories
 
+* [mqtt-ranger](https://github.com/develatter/mqtt-ranger)
 * [Rusty Bot](https://github.com/develatter/rusty_bot)
-* [Spanish Kotlin Notes](https://github.com/develatter/apuntes-de-kotlin)
 * [Java Sockets Example](https://github.com/develatter/Java-Multiuser-Chat-Example)
 * [Java CLI API Client Example](https://github.com/develatter/Java-CLI-RickAndMorty-Client)
-* [mqtt-ranger](https://github.com/develatter/mqtt-ranger)
 
 ---
 
