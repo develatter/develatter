@@ -101,8 +101,8 @@ Want to know more about me or collaborate on a project? Don’t hesitate to get 
 Thanks for visiting my profile. See you in the code! 💻
 
 <div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=develatter&show_icons=true&theme=dracula" width="66%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=develatter&theme=dracula" width="29%"/>    
+    <img src="https://github-readme-stats.vercel.app/api?username=develatter&show_icons=true&theme=tokyonight" width="66%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=develatter&theme=tokyonight" width="29%"/>    
 </div>
 
 ---
